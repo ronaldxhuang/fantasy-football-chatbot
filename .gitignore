@@ -5,3 +5,5 @@ data/
 json_files/
 preprocessed_data/
 *.json
+.env
+py_files/
